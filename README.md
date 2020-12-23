@@ -289,6 +289,10 @@ the file will be uploaded as `new.txt`.
 
 * send any one of the available command, as a reply to a valid link/magnet/torrent. 👊
 
+### Easy Way to Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jinto4638/tg_gd_leech)
+
 
 ## Credits, and Thanks to
 * [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
